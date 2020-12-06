@@ -1,7 +1,7 @@
 # Impasse
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -11,9 +11,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 65 Public Repositories
+> 📜 65 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 9 Private Repositories  
 
 **I'm an Early 🐤** 
 
