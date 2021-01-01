@@ -5,9 +5,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 109 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 54.5 kB Used in Github's Storage 
+> 📦 54.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
