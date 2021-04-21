@@ -1,13 +1,13 @@
 # Impasse
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 19 Contributions in the Year 2021
  > 
-> 📦 47.6 kB Used in Github's Storage 
+> 📦 47.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
