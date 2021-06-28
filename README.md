@@ -7,7 +7,7 @@
 
 > 🏆 46 Contributions in the Year 2021
  > 
-> 📦 48.2 kB Used in Github's Storage 
+> 📦 48.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/impasse/impasse/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2021
+ Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
