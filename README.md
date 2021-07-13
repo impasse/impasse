@@ -5,13 +5,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 53 Contributions in the Year 2021
+> 🏆 52 Contributions in the Year 2021
  > 
 > 📦 48.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 70 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
@@ -77,5 +77,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/impasse/impasse/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
