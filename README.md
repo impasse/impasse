@@ -1,9 +1,7 @@
 # Impasse
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-16-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -78,5 +76,5 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/impasse/impasse/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2022 03:44:58 UTC
+ Last Updated on 11/04/2022 18:52:35 UTC
 <!--END_SECTION:waka-->
